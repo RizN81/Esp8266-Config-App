@@ -1,0 +1,4 @@
+#Wed Jul 18 13:11:39 IST 2018
+base.0=D\:\\Android Studio Workspace\\ESPConfig\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
